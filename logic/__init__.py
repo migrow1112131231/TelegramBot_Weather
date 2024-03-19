@@ -1,0 +1,1 @@
+from .logic import send_info_about_weather
